@@ -3,5 +3,10 @@ body {
   --light-cyan: #5EB9BE;
   --dark-cyan: #39867E;
 
+
+  /*fonts*/
+  --Nerko: 'Nerko One', cursive;
+  --Shippori: 'Shippori Antique', serif;
+  --Mochiy: 'Mochiy Pop One', cursive;
 }
 
