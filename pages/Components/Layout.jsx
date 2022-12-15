@@ -8,8 +8,8 @@ export default function Layout({ children }) {
     return (
         <div className={styles.layout}>
             
-            <Banner />
             <NavSide />
+            <Banner />
             <AboutP />
             <Footer />
         </div>
